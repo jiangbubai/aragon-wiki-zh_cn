@@ -1,0 +1,208 @@
+site_name: '阿拉贡维基百科'
+site_url: https://wiki.aragon-cn.org
+repo_name: 'aragon/aragon-wiki-zh_cn'
+repo_url: 'https://github.com/jiangbubai/aragon-wiki-zh_cn'
+site_description: '阿拉贡项目维基百科'
+theme:
+  name: 'material'
+  palette:
+    primary: 'blue grey'
+    accent: 'cyan'
+  font:
+      text: 'Overpass'
+      code: 'Overpass Mono'
+  logo: 'images/logo.svg'
+  favicon: 'images/favicon.ico'
+extra_css:
+  - 'stylesheets/extra_style.css'
+extra_javascript:
+  - 'javascript/extra_js.js'
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/aragon'
+    - type: 'medium'
+      link: 'https://blog.aragon.one/'
+    - type: 'reddit'
+      link: 'https://www.reddit.com/r/aragonproject/'
+    - type: 'twitter'
+      link: 'https://twitter.com/AragonProject'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/company/aragonproject/'
+  feature:
+    tabs: false
+markdown_extensions:
+    - admonition
+nav:
+  - 主页: 'index.md'
+  - 文档:
+    - 术语表: 'documentation/glossary.md'
+    - 白皮书: 'documentation/whitepaper.md'
+    - 阿拉贡网络通证(ANT): 'documentation/aragon_network_token.md'
+    - 治理:
+      - 概述: 'documentation/governance.md'
+      - 基金会ANT政策: 'documentation/association_ant.md'
+    - 宣言: 'documentation/manifesto.md'
+    - 多签:
+      - 概述: 'documentation/multisigs/overview.md'
+      - 基金会: 'documentation/multisigs/association.md'
+      - 社区: 'documentation/multisigs/community.md'
+    - 开发计划: 'documentation/Development_Plan.md'
+    - 行为守则: 'documentation/Code_of_Conduct.md'
+    - Event Policy: 'documentation/event_policy.md'
+    - 法规:
+      - 软件 Licenses: 'documentation/legal/Licenses.md'
+      - 贡献值契约: 'documentation/legal/CLA.md'
+      - 商标协议: 'documentation/legal/Trademark_policy.md'
+      - 使用协议: 'documentation/legal/Terms_of_use_websites.md'
+      - 隐私协议: 'documentation/legal/Privacy_policy.md'
+    - 审计报告:
+      - 01号审计-Adam Dossa: 'documentation/audits/audit01_report_dossa.md'
+      - 内部审计-Brett Sun: 'documentation/audits/audit_internal_sun.md'
+      - 01号审计报告-White Hat Group: 'documentation/audits/audit_whg01_report.md'
+      - 02号审计报告-White Hat Group: 'documentation/audits/audit_whg_updated_aragonOS-Apps.pdf'
+    - 第三方项目: 'projects/index.md'
+  - 开发:
+    - 概述: 'dev/index.md'
+    - Apps:
+      - 概述: 'dev/apps/index.md'
+      - 投票: 'dev/apps/voting.md'
+      - 通证管理: 'dev/apps/token-manager.md'
+      - 筹款/募集: 'dev/apps/fundraising.md'
+      - 保险: 'dev/apps/vault.md'
+      - 财务: 'dev/apps/finance.md'
+    - Bug赏金任务: 'dev/bug_bounty.md'
+    - 安全信息披露: 'dev/security_disclosure.md'
+  - 入门:
+    - 阿拉贡用户手册: 'tutorials/Aragon_User_Guide.md'
+    - 基于Aragon Core v0.5的DAO Workshop: 'tutorials/DAO_Workshop_Testnet_by_joselfgaray.md'
+    - 如何使用Status Open Bounty获取Aragon的赏金任务: 'tutorials/Status_Open_Bounty_Guide.md'
+  - 设计:
+    - 概述: 'design/index.md'
+    - 标识: 'design/logo/index.md'
+    - 基于Aragon构建: 'design/powered_by_aragon.md'
+    - 插图: 'design/artwork/index.md'
+    - 视觉设计: 'design/identity_guidelines.md'
+    - 品牌建设: 'design/branding_proposal.md'
+    - 商品: 'design/merch/index.md'
+  # - 职位:
+  #   - 概述: 'jobs/index.md'
+  #   - Aragon One:
+  #     - Web3 开发人员: 'jobs/openings/web3.md'
+  #     - 前端开发: 'jobs/openings/frontend.md'
+  #     - DevOps: 'jobs/openings/dev-ops.md'
+  #     - EVM/Solidity 开发工程师: 'jobs/openings/solidity.md'
+  #     - 技术文档: 'jobs/openings/technical-writer.md'
+  #     - 开发者协调: 'jobs/openings/dev_rel.md'
+  #   - Aragon DAC:
+  #     - 技术写作: 'jobs/openings/DAC-Technical_Writer.md'
+  #     - UX设计: 'jobs/openings/DAC-UX_Designer.md'
+  #     - 项目管理: 'jobs/openings/DAC-Project_Manager.md'
+  - 博客:
+    - 2018: 'blog/2018.md'
+    - 2017: 'blog/2017.md'
+    - Aragon One:
+      - 2018: 'blog/A1/2018.md'
+  - 视频:
+    - 入门: 'videos/tutorials.md'
+    - 会议:
+      - 社区: 'videos/community.md'
+      - 核心开发:
+        - 概述: 'videos/dev.md'
+        - 模板: 'videos/template.md'
+        - 运行调用: 'videos/running_all_devs.md'
+    - 媒体采访: 'videos/interviews.md'
+    - 演示: 'videos/presentations.md'
+  - 媒体:
+      - 媒体资源: 'press/press-kit.md'
+      - 媒体: 'press/media-mentions.md'
+  - 赠款计划: 'nest/index.md'
+  - 归档:
+    - 文档:
+      - aragonOS v2.0.1: 'archive/documentation/aragonOS_201.md'
+      - AGP5 - Rocket Chat comparison: 'archive/documentation/agp5/RocketChat.md'
+      - AGP5 - Riot comparison: 'archive/documentation/agp5/Riot.md'
+    - 会议:
+      - Aragon HQ:
+        - HQ 01: 'archive/meetings/hq/01.md'
+        - HQ 02: 'archive/meetings/hq/02.md'
+        - HQ 03: 'archive/meetings/hq/03.md'
+      - Dev:
+        - Dev 01: 'archive/meetings/dev/01.md'
+        - Dev 02: 'archive/meetings/dev/02.md'
+      - Community:
+        - Community 11:
+          - Agenda: 'meetings/community/11.md'
+        - Community 10:
+          - Agenda: 'meetings/community/10.md'
+          - Write-Up - Alexa: 'meetings/community/write-ups/cm10/alexa.md'
+          - Write-Up - Bingen: 'meetings/community/write-ups/cm10/bingen.md'
+          - Write-Up - Brett: 'meetings/community/write-ups/cm10/brett.md'
+          - Write-Up - Chris: 'meetings/community/write-ups/cm10/chris.md'
+          - Write-Up - John: 'meetings/community/write-ups/cm10/john.md'
+          - Write-Up - Jorge: 'meetings/community/write-ups/cm10/jorge.md'
+          - Write-Up - Jouni: 'meetings/community/write-ups/cm10/jouni.md'
+          - Write-Up - Luis: 'meetings/community/write-ups/cm10/luis.md'
+          - Write-Up - Luke: 'meetings/community/write-ups/cm10/luke.md'
+          - Write-Up - Maria: 'meetings/community/write-ups/cm10/maria.md'
+          - Write-Up - Oliver: 'meetings/community/write-ups/cm10/oliver.md'
+          - Write-Up - Pierre: 'meetings/community/write-ups/cm10/pierre.md'
+          - Write-Up - Tatu: 'meetings/community/write-ups/cm10/tatu.md'
+        - Community 09:
+          - Agenda: 'meetings/community/09.md'
+          - Write-Up - Alexa: 'meetings/community/write-ups/cm09/alexa.md'
+          - Write-Up - Bingen: 'meetings/community/write-ups/cm09/bingen.md'
+          - Write-Up - Brett: 'meetings/community/write-ups/cm09/brett.md'
+          - Write-Up - John: 'meetings/community/write-ups/cm09/john.md'
+          - Write-Up - Jorge: 'meetings/community/write-ups/cm09/jorge.md'
+          - Write-Up - Jouni: 'meetings/community/write-ups/cm09/jouni.md'
+          - Write-Up - Luis: 'meetings/community/write-ups/cm09/luis.md'
+          - Write-Up - Luke: 'meetings/community/write-ups/cm09/luke.md'
+          - Write-Up - Maria: 'meetings/community/write-ups/cm09/maria.md'
+          - Write-Up - Oliver: 'meetings/community/write-ups/cm09/oliver.md'
+          - Write-Up - Pierre: 'meetings/community/write-ups/cm09/pierre.md'
+          - Write-Up - Tatu: 'meetings/community/write-ups/cm09/tatu.md'
+        - Community 08:
+          - Agenda: 'meetings/community/08.md'
+          - Write-Up - Alexa: 'meetings/community/write-ups/cm08/alexa.md'
+          - Write-Up - Brett: 'meetings/community/write-ups/cm08/brett.md'
+          - Write-Up - John: 'meetings/community/write-ups/cm08/john.md'
+          - Write-Up - Jorge: 'meetings/community/write-ups/cm08/jorge.md'
+          - Write-Up - Luis: 'meetings/community/write-ups/cm08/luis.md'
+          - Write-Up - Luke: 'meetings/community/write-ups/cm08/luke.md'
+          - Write-Up - Maria: 'meetings/community/write-ups/cm08/maria.md'
+          - Write-Up - Oliver: 'meetings/community/write-ups/cm08/oliver.md'
+          - Write-Up - Pierre: 'meetings/community/write-ups/cm08/pierre.md'
+          - Write-Up - Tatu: 'meetings/community/write-ups/cm08/tatu.md'
+        - Community 07:
+          - Agenda: 'meetings/community/07.md'
+          - Write-Up - Alexa: 'meetings/community/write-ups/cm07/alexa.md'
+          - Write-Up - Brett: 'meetings/community/write-ups/cm07/brett.md'
+          - Write-Up - John: 'meetings/community/write-ups/cm07/light-cm07.md'
+          - Write-Up - Jorge: 'meetings/community/write-ups/cm07/jorge.md'
+          - Write-Up - Luis: 'meetings/community/write-ups/cm07/luis.md'
+          - Write-Up - Luke: 'meetings/community/write-ups/cm07/luke.md'
+          - Write-Up - Maria: 'meetings/community/write-ups/cm07/maria.md'
+          - Write-Up - Oliver: 'meetings/community/write-ups/cm07/oliver.md'
+          - Write-Up - Pierre: 'meetings/community/write-ups/cm07/pierre.md'
+          - Write-Up - Tatu: 'meetings/community/write-ups/cm07/tatu.md'
+        - Community 06:
+          - Agenda: 'meetings/community/06.md'
+          - Write-Up - Brett: 'meetings/community/write-ups/cm06/brett.md'
+          - Write-Up - John: 'meetings/community/write-ups/cm06/john.md'
+          - Write-Up - Jorge: 'meetings/community/write-ups/cm06/jorge.md'
+          - Write-Up - Luis: 'meetings/community/write-ups/cm06/luis.md'
+          - Write-Up - Luke: 'meetings/community/write-ups/cm06/luke.md'
+          - Write-Up - Maria: 'meetings/community/write-ups/cm06/maria.md'
+          - Write-Up - Oliver: 'meetings/community/write-ups/cm06/oliver.md'
+          - Write-Up - Pierre: 'meetings/community/write-ups/cm06/pierre.md'
+          - Write-Up - Tatu: 'meetings/community/write-ups/cm06/tatu.md'
+        - Community 05: 'meetings/community/05.md'
+        - Community 04: 'meetings/community/04.md'
+        - Community 03: 'meetings/community/03.md'
+        - Community 02: 'meetings/community/02.md'
+        - Community 01: 'meetings/community/01.md'
+    - 视频:
+      - 会议:
+        - Aragon HQ: 'archive/videos/hq.md'
+        - Dev: 'archive/videos/dev.md'
