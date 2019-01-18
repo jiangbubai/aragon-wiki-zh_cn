@@ -30,8 +30,8 @@
 
 步骤如下：
 
-- Fork [Aragon Wiki GitHub repository](https://github.com/jiangbubai/aragon-wiki-zh_cn)
-- **提交 Pull Request** 后Merge到主仓库
+- **Fork** [Aragon Wiki ZH_CN GitHub仓库](https://github.com/jiangbubai/aragon-wiki-zh_cn)并提交贡献
+- 创建 **Pull Request** 经过Review后Merge到主仓库
 
 ## 部署改动后的维基百科
 
