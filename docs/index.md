@@ -63,7 +63,7 @@ ___
 
 ## 阿拉贡定义
 
-<h4 style="color:#00CBE6;">民主共治</h4>
+<h3 style="color:#00CBE6;">民主共治</h3>
 
 **迈向更加公平高效的社会**
 
@@ -73,109 +73,115 @@ ___
 
 通过让世界上的每一个人都能有效组织协同起来，我们正在创造一种无国界、无需许可、更高效的价值创造方式。
 
-<h4 style="color:#00CBE6;">消灭中介</h4>
+<h3 style="color:#00CBE6;">消灭中介</h3>
+
 **回归独立自主**
 
 > 阿拉贡创建的组织由以太坊(Ethereum)提供支持，Ethereum是一个用于持续运行应用程序的公共区块链。在Ethereum中，代码和应用程序总是在不停机或检查的情况下运行。
 
-Blockchain technology provides a single shared source of cryptographically verified truth. This is secured by a network made up of thousands of computers all over the globe. Anyone can set up their own node where all the necessary data is replicated across the network.
-区块链技术提供了一个经过加密验证的事实的共享源。这是由全球数千台计算机组成的网络所保证的。任何人都可以设置自己的节点，所有必要的数据都可以在其中跨网络复制。
+区块链技术提供了一个经过加密验证的等技术手段来达成共识。这是由全球数千台计算机组成的网络所保证的。任何人都可以设置自己的节点，所有必要的数据都可以在其中跨网络复制。
 
-This decentralized design ensures a borderless and permissionless way of operating, without the fear of a government or a malicious third-party interfering.
-这种分散的设计确保了一种无边界和无许可的运作方式，而不用担心政府或恶意第三方的干预。
+这种去中心化的设计确保了以无限扩展和无需中心机构许可就可以开展的运作方式，而不用担心政府或恶意第三方的干预。
 
-<h4 style="color:#00CBE6;">一个没有土地和边界的自治体</h4>
+<h3 style="color:#00CBE6;">民主自治</h3>
 
 **数字管辖**
 
-> Aragon Network will be the first community governed decentralized organization whose goal is to act as a digital jurisdiction, an online decentralized court system that isn’t bound by traditional artificial barriers such as national jurisdictions or the borders of a single country.
+> 阿拉贡网络将是第一个完全由社区共同治理的去中心化组织，其目标是作为一个数字司法管辖区，一个在线去中心化的司法系统，不受任何国家司法管辖区或独立国家边界等传统人为障碍的约束。
 
-Aragon organizations can be upgraded seamlessly using our aragonOS architecture. They can solve disputes between two parties by using the decentralized court system, a digital jurisdiction that operates only online and utilizes your peers to resolve issues.
+阿拉贡组织可以使用我们的AragonOS基础架构进行无缝升级。他们可以通过使用去中心化司法系统来解决双方之间的争端，这是一种只在网上运作、利用你的网络节点来解决问题的数字司法系统。
 
-The Aragon Network Token, ANT, puts the power into the hands of the people participating in the operation of the Network. Every single aspect of the Network will be governed by those willing to make an effort for a better future.
+阿拉贡网络通证（Aragon Network Token）ANT将权力交到网络运营管理者的手中。整个网络都将由那些愿意为更美好的未来而努力的人来管理。
 
-### **客户端**
+### **核心功能**
 
-<h2>使用去中心化方式运作您的组织</h2>
+<h3>使用去中心化方式运作您的组织</h3>
 
 <h4 style="color:#00CBE6;">转账交易</h4>
-**Tokens代表你在组织中的权益**
 
-Your organization is in control of its funds. Transfer and assign them according to your personal needs without artificial limitations.
+**通证(Tokens)代表你在组织中的权益**
 
-<h4 style="color:#00CBE6;">筹款</h4>
-**Grasp the potential of a new form of crowdfunding**
+由阿拉贡管理的组织将通过其发行的通证进行管理，该通证可以根据您的个人需要进行转让和分配，不受人为的限制。
 
-Utilize the power of the crowd for funding and raise funds globally, in private or publicly, without relying on banks or financial gatekeepers.
+<h4 style="color:#00CBE6;">资金筹集</h4>
 
-<h4 style="color:#00CBE6;">投票</h4>
-**Decision-making by voting**
+**挖掘新型众筹的潜力**
 
-Use voting for more effective results. Votes are a secure, transparent and unforgeable way to come to a decision on major issues.
+利用众筹在全球范围内以私募或公募的方式筹集资金，而不依赖银行或金融中介。
 
-<h4 style="color:#00CBE6;">支付</h4>
-**Instant payments in a few clicks**
+<h4 style="color:#00CBE6;">决策投票</h4>
 
-Adding a new employee to your organization and payroll is as easy as creating a new recurring payment.
+**用投票做决策**
 
-<h4 style="color:#00CBE6;">账户</h4>
-**Tamper-proof, effective accounting**
+投票是就重大问题作出决定的一种安全、透明和不可篡改的方式，因此可以使用投票来获得更有效的决策结果。
 
-> Every transaction is recorded and can be verified on the blockchain at any given time
+<h4 style="color:#00CBE6;">转账支付</h4>
 
-Unprecedented level of transparency can be gained through the use of a public blockchain to engrave every entry permanently on the ledger.
+**简单快速完成支付**
 
-Pre-established rules can automatically define your quarterly spending and budgeting.
+向组织中添加新成员就像发起一笔支付一样简单。
 
-<h4 style="color:#00CBE6;">权限</h4>
-**Flexible and resilient privilege escalation**
+<h4 style="color:#00CBE6;">财务会计</h4>
 
-> Fine-grained permissions deliver the freedom to create an organization that will work for you.
+**高效、防篡改财务会计**
 
-Permissions can be granular and assigned in fine detail. You can choose to give people a certain degree of control over the organization and privileges can be escalated easily through a voting or different mechanisms if the person isn't allowed to directly perform a desired action.
+> 每笔交易都会按时间序列被记录，并且可以在区块链上进行验证
 
-By assigning different permissions to people, you can create the kind of organizational structure that is best suited for your needs.
+通过使用公有区块链在分类账上永久地记录所有交易，可以获得前所未有的透明度。
+
+通过智能合约自动完成预先制定的规则如自动完成季度支出和预算。
+
+<h4 style="color:#00CBE6;">权限管控</h4>
+
+**灵活且富有弹性的权限逐步升级**
+
+> 细粒度权限管理使得创建的组织更加灵活自由
+
+权限可以按照较细的粒度进行设定和分配。可以选择赋予特定人选对组织一定程度的控制权，如果不允许某人直接执行所需的操作，那么也可以通过投票或其他机制轻松地进行权限赋予。
+
+通过为人们分配不同的权限，创建最适合需求的组织结构。
 
 ### **阿拉贡网络**
 
-<h2>Ensuring the success of decentralized organizations</h2>
-<h2>确保去中心化组织的成果</h2>
+<h4>去中心化组织的基石</h4>
 
 **将权力交回到用户手上**
 
-> The Aragon Network will decentralize its governance by gradually handing over control of the project to its users.
+> 阿拉贡网络将通过逐步将项目控制权转移给更多的用户来达成去中心化治理。
 
-The Aragon Network will establish additional services for the organizations taking advantage of what Aragon provides.
+阿拉贡网络将为基于阿拉贡构建的组织提供额外的服务。
 
-Our mission is to make the Aragon Network an autonomous organization itself, which is managed by the people using it for their mutual prosperity.
+我们的使命是使阿拉贡网络本身成为一个自治组织，由为共同繁荣的用户进行管理。
 
-<h4 style="color:#00CBE6;">ARAGON GOVERNANCE PROPOSALS</h4>
-**[Join us in improving Aragon by making your voice heard](https://github.com/aragon/governance/issues)**
+<h4 style="color:#00CBE6;">阿拉贡治理建议</h4>
 
-[Aragon Governance Proposals](https://github.com/aragon/governance/issues) is a system for community members to join the discussion and create proposals affecting Aragon.
+**[加入我们，通过谏言一起来改善阿拉贡](https://github.com/aragon/governance/issues)**
 
-Everyone is welcome to [join in and aid](https://github.com/aragon/governance/issues) in forging the future of how Aragon will shape out to be. Together we can build the exciting future we want to see.
+[阿拉贡治理建议](https://github.com/aragon/governance/issues) 是一个让社区成员参与讨论并提出影响阿拉贡的建议系统。
 
-### **Why Aragon?**
+欢迎大家[参与进来帮助](https://github.com/aragon/governance/issues)塑造阿拉贡的未来。激动人心的未来将有我们一起共同创造。
 
-> Aragon was born to bring transparency and independent governance to the forefront of managing an organization. We want to give the users the freedom they deserve to run their lives.
+### **目标**
 
-Organizations like companies exist to create value for their owners and users. They use the resources available to them in order to provide services and to create products.
+> 阿拉贡的诞生是为了将透明、独立的治理思想带到管理组织的前沿应用。我们想给用户应该拥有的自由来经营自己的生活。
 
-Their ability to do this efficiently is hindered by factors outside of their influence. By removing unnecessary intermediaries and third parties that impose artificial restrictions and unnecessarily complex regulations, we can modernize the way organizations are run.
+像公司这样的组织存在的目的是为所有者和用户创造价值。他们使用可用的资源创建产品或提供服务。
 
-<h4 style="color:#00CBE6;">愿景</h4>
-**Evolution of the internet and blockchain technology are changing the ways we interact with each other**
+但目前大多公司或组织往往受到其能力外因素的阻碍。我们尝试着通过消除人为限制、不必要的复杂规定、不必要的中介和第三方去颠覆组织运作方式，使其更加具备适应性。
 
-We believe that the progression of modern technology solutions, such as the invention of the blockchain, are changing the incentives for people to interact with each other. We are building the tools for the next generation of organizations to take advantage of this revolution.
+### **愿景**
 
-Experimenting with new governance models has been a very risky endeavour during previous iterations of society. Now, for the first time in human history, we can let a thousand new governance models emerge, all from the comfort of our laptops.
+> **互联网和区块链技术的发展正在改变我们的协作方式**
+
+我们相信，现代技术的进步，如区块链的发明，正在改变人们相互协作的方式。我们正在利用这场革命，为次世代组织（去中心化组织）构建工具。
+
+在以前的社会演进中，尝试新的治理模型是一项极具风险的工作。但现在，随着网络及计算终端的普及，我们第一次可以上千种新的治理模型涌现，着这在人类历史上也是前所未见的。
 
 ## 社区
 
-Aragon Chat - [https://aragon.chat](https://aragon.chat)
+在线聊天室 Aragon Chat - [https://aragon.chat](https://aragon.chat)
 
-Aragon Research Forum - [https://research.aragon.org](https://research.aragon.org)
+论坛 Aragon Research Forum - [https://research.aragon.org](https://research.aragon.org)
 
 Reddit - [https://www.reddit.com/r/aragonproject/](https://www.reddit.com/r/aragonproject/)
 
@@ -185,17 +191,17 @@ LinkedIn - [https://www.linkedin.com/company/aragonproject/](https://www.linkedi
 
 YouTube - [https://www.youtube.com/c/AragonProject](https://www.youtube.com/c/AragonProject)
 
-## Teams
+## 团队
 
-> _To encourage other teams to work on Aragon, we will be splitting off the Association to form a company of core developers. Everyone currently employed by the Association will become employees of a new company funded by the Association. That way, **we level the playing field for other teams to join the core development of the project**._
+> _为了鼓励其他团队更好地在Aragon上参与协作，我们将从基金会中独立出一个由核心开发人员组成的公司。目前受雇于本基金会的每个人都将成为基金会资助的新公司的成员。这样就可以为其他团队加入到项目的核心开发中提供了公平的竞争环境_
 
-With [Aragon Nest](https://github.com/aragon/nest) we are already supporting projects that are not necessarily sustainable by themselves yet, but are crucial to the Aragon and Ethereum ecosystems.
+通过[Aragon Nest](https://github.com/aragon/nest)，我们已经在支持一些项目，这些项目本身虽然不一定是可持续的，但对Aragon和Ethereum生态系统至关重要。
 
-**We will expand the scope of Nest to start funding alternative teams** that have a desire to work on the [**Aragon client**](https://hack.aragon.org/docs/getting-started.html), [**aragonOS**](https://hack.aragon.org/docs/aragonos-ref.html) and on [**Aragon Apps**](dev/apps/).
+**我们将扩大Nest的支持范围**，为那些希望在[**Aragon客户端**](https://hack.aragon.org/docs/getting-started.html)、[**AragonOS**](https://hack.aragon.org/docs/aragonos-ref.html)和[**Aragon应用**](dev/apps/)上做出贡献的团队提供资金。
 
-Since we released the first version of the [Aragon whitepaper](documentation/whitepaper.md), we knew that it was important to **split the non-profit entity** overseeing the project [**from the actual companies or teams working on its development**](https://blog.aragon.org/the-path-to-mainstream-decentralized-organizations-d95a89d3cac4).
+自从我们发布了[阿拉贡白皮书](documentation/whitepaper.md)的第一个版本以来，我们就知道将监督项目的非盈利实体与致力于[项目开发的实际公司或团队](https://blog.aragon.org/the-path-to-mainstream-decentralized-organizations-d95a89d3cac4)分离是非常重要的。
 
-For more context, we've published three blog posts about why it makes sense to [decentralize Aragon's development](https://blog.aragon.org/decentralizing-aragons-development-5062fd6d135d), [the steps forward for the non-profit entity](https://blog.aragon.org/decentralizing-aragons-development-ii-minimum-viable-foundation-8ec1f9a13ebc) and [onboarding new teams](https://blog.aragon.org/decentralizing-aragons-development-iii-onboarding-new-teams-32786cb805a5) along with [the Aragon Manifesto](https://blog.aragon.org/the-aragon-manifesto-4a21212eac03).
+有关更多内容，可以参考我们已经发表的三篇博文，分别是[为什么阿拉贡采用去中心化开发是有意义的](https://blog.aragon.org/decentralizing-aragons-development-5062fd6d135d)，[非盈利实体的前进步骤](https://blog.aragon.org/decentralizing-aragons-development-ii-minimum-viable-foundation-8ec1f9a13ebc)以及[新团队的加入](https://blog.aragon.org/decentralizing-aragons-development-iii-onboarding-new-teams-32786cb805a5)以及[阿拉贡宣言](https://blog.aragon.org/the-aragon-manifesto-4a21212eac03)。
 
 ### Aragon One
 
@@ -209,7 +215,7 @@ For more context, we've published three blog posts about why it makes sense to [
 
 <img src="images/team_members/Luis_256.png" style="width:192px">
 
-- **CEO / Chief Executive Officer**: [Luis Cuende](https://twitter.com/licuende)
+- **CEO / 总裁**: [Luis Cuende](https://twitter.com/licuende)
 
 > Luis has been awarded as the best underage European programmer in 2011, is a [Forbes 30 Under 30](https://www.forbes.com/30-under-30-europe-2016/technology/#6662a3e4a4b3), a [MIT TR35](https://www.innovatorsunder35.com/the-list/luis-cuende/) and was an Advisor to the VP of the European Commission.
 
@@ -219,7 +225,7 @@ For more context, we've published three blog posts about why it makes sense to [
 
 <img src="images/team_members/Jorge_256.png" style="width:192px">
 
-- **CTO / Chief Technical Officer**: [Jorge Izquierdo](https://twitter.com/izqui9)
+- **CTO / 技术总监**: [Jorge Izquierdo](https://twitter.com/izqui9)
 
 > Curious hacker, creator of multiple apps for iOS and macOS. Reached App Store's #2. Always tinkering with new tech. Named as a [2017 class of Thiel Fellows](https://www.businesswire.com/news/home/20170616005607/en).
 
@@ -287,10 +293,12 @@ ___
 
 > Funding for the community will come in a form of a grant given by the project's non-profit entity, in similar terms to the ones that the entity will provide to [Aragon One](#aragon-one) and future teams that will be working on the project as well.
 
-#### The Development Campaign
+#### 开发活动
 The Development Campaign is staffed with full-time and part-time people that create and tackle issues in the full Aragon Stack and is managed in a semi-decentralized way, while collaborating heavily with the Aragon One team and the R&D Campaign. This Campaign is spearheaded by Quazia, Social Coding Circle Lead at Giveth
 
-#### The Community R&D Campaign
+开发活动由全职和兼职人员组成，他们在整个Aragon堆栈中创建和处理问题，并以局部去中心化的方式进行管理，同时与Aragon One团队和研发活动进行大量合作。这个活动由Quazia发起，并在社交编程圈子Giveth中比较突出。
+
+#### 社区研发活动
 The Community R&D Campaign will focus on helping end users (=non-developers) experiment with using the Aragon Stack. #Dogfooding is the name of the game! This team is stewarded by Griff Green, Giveth's Governance Circle Lead
 ___
 > - **[Quazia](https://github.com/quazia), [Social Coding Circle](https://medium.com/giveth/what-is-social-coding-fa81feacfa32) Lead at Giveth**
