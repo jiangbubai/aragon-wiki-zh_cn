@@ -1,4 +1,6 @@
-# [阿拉贡维基百科 wiki.aragon.org](https://wiki.aragon.org/) <img align="right" src="https://github.com/aragon/design/blob/master/readme-logo.png" height="80px" />
+# [阿拉贡维基百科](https://jiangbubai.github.io/aragon-wiki-zh_cn/)
+ 临时预览地址：https://jiangbubai.github.io/aragon-wiki-zh_cn/
+ <img align="right" src="https://github.com/aragon/design/blob/master/readme-logo.png" height="80px" />
 
 ## 本维基百科包含了与阿拉贡项目相关的大多公开内容及资源
 
