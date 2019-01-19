@@ -179,7 +179,7 @@ ___
 
 ## 社区
 
-在线聊天室 Aragon Chat - [https://aragon.chat](https://aragon.chat)
+在线聊天室 Aragon Chat - [https://aragon.chat](https://aragon.chat)
 
 论坛 Aragon Research Forum - [https://research.aragon.org](https://research.aragon.org)
 
@@ -207,100 +207,103 @@ YouTube - [https://www.youtube.com/c/AragonProject](https://www.youtube.com/c/Ar
 
 <img src="design/logo/aragon_one/png/aragon-one-lineart-black-transparent.png" style="width:75%">
 
-> [Aragon One](http://blog.aragon.one/introducing-aragon-one-b14dd804c5ce/) is one of the development teams working on Aragon. [Aragon One](https://aragon.one/) is a company that encompasses the foundational team working on the [Aragon Project](https://aragon.org). The company is currently established in Switzerland, although we want it to function as a DAO as much as possible.
+> [Aragon One](http://blog.aragon.one/introducing-aragon-one-b14dd804c5ce/)是使用阿拉贡来进行组织治理的开发团队的典型代表。 
 
-> We want Aragon One to be a small team, with high-bandwidth and trust between individuals. Keeping the team small will help us prevent many of the problems that arise when growing too much and too fast.
+> [Aragon One](https://aragon.one/)同时又是一家公司，其中包括致力于阿拉贡项目的基础团队。该公司目前在瑞士成立，尽管我们希望它尽可能地作为DAO运行。 
 
-> Funding for the company will come in a form of a grant given by the project's non-profit entity, in similar terms to the ones that the entity will provide to future teams that will be working on the project as well.
+> 我们希望Aragon One成为一个小团队，获取大家的信任。保持团队规模小将有助于我们防止在增长过快出现的诸多问题。
+
+> 公司的资金将以非营利组织项目给予的赠款形式出现，其类似于该非营利组织为未来将参与该项目的团队提供的资金。
 
 <img src="images/team_members/Luis_256.png" style="width:192px">
 
 - **CEO / 总裁**: [Luis Cuende](https://twitter.com/licuende)
 
-> Luis has been awarded as the best underage European programmer in 2011, is a [Forbes 30 Under 30](https://www.forbes.com/30-under-30-europe-2016/technology/#6662a3e4a4b3), a [MIT TR35](https://www.innovatorsunder35.com/the-list/luis-cuende/) and was an Advisor to the VP of the European Commission.
+> Luis被[福布斯30岁以下30人](https://www.forbes.com/30-under-30-europe-2016/technology/#6662a3e4a4b3) 评为2011年最佳未成年欧洲程序员，[麻省理工学院TR35](https://www.innovatorsunder35.com/the-list/luis-cuende/) ，并担任欧洲委员会副总裁顾问。
 
-> He cofounded the blockchain startup [Stampery](https://stampery.com/). Prior to founding startups, he created the world's first Linux distribution with facelogin.
+> 他是区块链创业公司[Stampery](https://stampery.com/)的联合创始人。在创立初创公司之前，他创建了世界上第一个使用facelogin的Linux发行版。
 
-> Advisor to a few crypto projects that awake his curiosity.
+> 同时兼顾众多数字加密项目的顾问。
 
 <img src="images/team_members/Jorge_256.png" style="width:192px">
 
 - **CTO / 技术总监**: [Jorge Izquierdo](https://twitter.com/izqui9)
 
-> Curious hacker, creator of multiple apps for iOS and macOS. Reached App Store's #2. Always tinkering with new tech. Named as a [2017 class of Thiel Fellows](https://www.businesswire.com/news/home/20170616005607/en).
+> 技术牛人，开发了众多iOS和macOS App，包括排名App Store排名第2的App。总新技术。被命名为[2017年度Thiel最佳研究员](https://www.businesswire.com/news/home/20170616005607/en)
 
-> Already convinced about the decentralized future of the Internet, he has been building toy projects such as a [mesh network](https://github.com/izqui/net) or a small [blockchain implementation](https://github.com/izqui/blockchain) since 2014.
+> 他坚信互联网的去中心化才有未来，自2014年以来一直在开发如[mesh network](https://github.com/izqui/net)和[blockchain implementation](https://github.com/izqui/blockchain)等实验性项目。
 ___
 ><img src="images/team_members/Maria_256.png" style="width:192px">
 
-> - **Ecosystem development at Aragon One**: [María Gómez](https://twitter.com/MyPaoG)
+> - **生态建设@Aragon One**: [María Gómez](https://twitter.com/MyPaoG)
 
 &nbsp;
 
 > <img src="images/team_members/Tatu_256.png" style="width:192px">
 
-> - **Communications at Aragon One**: [Tatu Kärki](https://twitter.com/smokyish)
+> - **联络@Aragon One**: [Tatu Kärki](https://twitter.com/smokyish)
 
 &nbsp;
 
 > <img src="images/team_members/Luke_256.png" style="width:192px">
 
-> - **Researcher at Aragon One**: [Luke Duncan](https://twitter.com/lkngtn)
+> - **研究员@Aragon One**: [Luke Duncan](https://twitter.com/lkngtn)
 
 &nbsp;
 
 > <img src="images/team_members/John_256.png" style="width:192px">
 
-> - **Community at Aragon One**: [John Light](https://twitter.com/lightcoin)
+> - **协调@Aragon One**: [John Light](https://twitter.com/lightcoin)
 
 &nbsp;
 
 > <img src="images/team_members/Jouni_256.png" style="width:192px">
 
-> - **Design at Aragon One**: [Jouni Helminen](https://twitter.com/dharmaone)
+> - **设计@Aragon One**: [Jouni Helminen](https://twitter.com/dharmaone)
 
 &nbsp;
 
 > <img src="images/team_members/Alexa_256.png" style="width:192px">
 
-> - **Operations at Aragon One**: [Alexa Weaver](https://twitter.com/alexa_rwr)
+> - **运营@Aragon One**: [Alexa Weaver](https://twitter.com/alexa_rwr)
 
-**<h2>Dev Team</h2>**
+**<h2>开发团队</h2>**
 
 > <img src="images/team_members/Pierre_256.png" style="width:192px">
 
-> - **UI & Interaction Developer at Aragon One**: [Pierre Bertet](https://twitter.com/bpierre)
+> - **UI及交互设计师@Aragon One**: [Pierre Bertet](https://twitter.com/bpierre)
 
 &nbsp;
 
 > <img src="images/team_members/Brett_256.png" style="width:192px">
 
-> - **Lead Developer at Aragon One**: [Brett Sun](https://twitter.com/sohkai)
+> - **开发主管@Aragon One**: [Brett Sun](https://twitter.com/sohkai)
 
 &nbsp;
 
 > <img src="images/team_members/Bingen_256.png" style="width:192px">
 
-> - **Solidity Engineer at Aragon One**: [Bingen Eguzkitza](https://twitter.com/bingentxu)
+> - **Solidity智能合约工程师@Aragon One**: [Bingen Eguzkitza](https://twitter.com/bingentxu)
 
-### Aragon DAC
+### Aragon DAC（发展援助委员会）
 
 <img src="design/logo/aragon_dac/Logo_ad.png" style="width:75%">
 
-> The Aragon Association and [Giveth](https://giveth.io) are proud to announce the launch of Aragon DAC, a [Decentralized Altruistic Community](https://medium.com/giveth/giveth-introduces-decentralized-altruistic-communities-dacs-d1155a79bdc4) on the Giveth platform that will work on building out core Aragon infrastructure from the end user's perspective.
+> 阿拉贡基金会和Giveth很自豪地宣布推出Aragon DAC（[Decentralized Altruistic Community](https://medium.com/giveth/giveth-introduces-decentralized-altruistic-communities-dacs-d1155a79bdc4) ），这是一个在[Giveth](https://giveth.io)平台上的去中心化公益社区，致力于为以用户需求为导向构建Aragon的核心基础设施。
 
-> The second team that will be working on the Aragon stack is a community focused effort led by the [Giveth community](https://wiki.giveth.io/dac/mission/#giveth-is-a-decentralized-altruistic-community-dac-focused-on-using-blockchain-technology-for-good-to-make-the-world-a-better-place): the Aragon DAC will kick off with **two specific projects or 'Campaigns'**: one focusing purely on development, the other on experimentation with the Aragon stack. Experienced members of Giveth and Aragon One will help kickstart the Aragon DAC initiatives on a voluntary and part-time basis, with the clear goal of steering the DAC towards full independence.
+> 第二个将参与Aragon工作的团队是由[Giveth社区](https://wiki.giveth.io/dac/mission/#giveth-is-a-decentralized-altruistic-community-dac-focused-on-using-blockchain-technology-for-good-to-make-the-world-a-better-place)领导的以社区为重点的工作：Aragon DAC将启动两个特定项目或活动：一个专注于开发，另一个专注于应用。经验丰富的Giveth和Aragon One成员将在自愿和兼职的基础上帮助DAC的各项倡议，其明确目标是引导DAC实现完全独立。
 
-> Funding for the community will come in a form of a grant given by the project's non-profit entity, in similar terms to the ones that the entity will provide to [Aragon One](#aragon-one) and future teams that will be working on the project as well.
+> 社区的资金将以非营利组织项目给予的赠款形式出现，其类似于该非营利组织为[Aragon One](#aragon-one)以及未来将参与该项目的团队提供的资金。
 
 #### 开发活动
-The Development Campaign is staffed with full-time and part-time people that create and tackle issues in the full Aragon Stack and is managed in a semi-decentralized way, while collaborating heavily with the Aragon One team and the R&D Campaign. This Campaign is spearheaded by Quazia, Social Coding Circle Lead at Giveth
 
-开发活动由全职和兼职人员组成，他们在整个Aragon堆栈中创建和处理问题，并以局部去中心化的方式进行管理，同时与Aragon One团队和研发活动进行大量合作。这个活动由Quazia发起，并在社交编程圈子Giveth中比较突出。
+开发活动由全职和兼职人员组成，他们在整个Aragon产品中创建和处理问题，并以局部去中心化的方式进行管理，同时与Aragon One团队和研发活动进行大量合作。这个活动由Quazia发起，并在社交编程圈子Giveth中比较突出。
 
 #### 社区研发活动
-The Community R&D Campaign will focus on helping end users (=non-developers) experiment with using the Aragon Stack. #Dogfooding is the name of the game! This team is stewarded by Griff Green, Giveth's Governance Circle Lead
+
+社区研发活动将专注于帮助终端用户（非开发人员）尝试使用Aragon产品。 #Dogfooding是游戏的名称！这支球队由Giveth's Governance Circle Lead的Griff Green担任管理员
 ___
+相关成员
 > - **[Quazia](https://github.com/quazia), [Social Coding Circle](https://medium.com/giveth/what-is-social-coding-fa81feacfa32) Lead at Giveth**
 
 Social Coding Circle Lead at Giveth, who's already very familiar with Aragon through his work on an open-source planning app ([which was awarded a Nest Grant](https://blog.aragon.org/aragon-nest-first-awarded-grants-29a2f3aa8d4a/))
