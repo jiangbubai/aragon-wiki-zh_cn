@@ -209,7 +209,7 @@ YouTube - [https://www.youtube.com/c/AragonProject](https://www.youtube.com/c/Ar
 
 > [Aragon One](http://blog.aragon.one/introducing-aragon-one-b14dd804c5ce/)是使用阿拉贡来进行组织治理的开发团队的典型代表。 
 
-> [Aragon One](https://aragon.one/)同时又是一家公司，其中包括致力于阿拉贡项目的基础团队。该公司目前在瑞士成立，尽管我们希望它尽可能地作为DAO运行。 
+> [Aragon One](https://aragon.one/)同时又是一家公司，致力于为阿拉贡项目提供基础服务团队。该公司目前在瑞士成立，尽管我们希望它尽可能地作为DAO运行。 
 
 > 我们希望Aragon One成为一个小团队，获取大家的信任。保持团队规模小将有助于我们防止在增长过快出现的诸多问题。
 
